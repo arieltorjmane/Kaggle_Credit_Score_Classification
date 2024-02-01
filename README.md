@@ -101,7 +101,11 @@ Submissions are evaluated on Accuracy Score between the predicted probability an
 For each ID in the test set, you must predict a probability for the TARGET variable. The file should contain a header and have the following format:
 
 ID,TARGET
+
 2,Standard
+
 5,Poor
+
 6,Good
+
 etc.
