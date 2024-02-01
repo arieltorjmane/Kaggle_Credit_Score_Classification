@@ -18,33 +18,61 @@ Get ready to dive into the data, draw insights, and deploy your model—the futu
 As part of our credit score classification challenge, we have at our disposal a dataset that serves as a financial footprint of our customers. This dataset includes a comprehensive set of variables:
 
 Variable :	Description
+
 ID :	Unique identifier for the record
+
 Customer_ID	: Unique identifier for the customer
+
 Month :	Month when the data was recorded
+
 Name :	Name of the customer
+
 Age :	Age of the customer
+
 SSN :	Social Security Number of the customer
+
 Occupation :	Customer's occupation
+
 Annual_Income :	Customer's yearly income
+
 Monthly_Inhand_Salary	: Customer's take-home salary per month
+
 Num_Bank_Accounts :	Number of bank accounts the customer holds
+
 Num_Credit_Card :	Number of credit cards the customer has
+
 Interest_Rate :	Interest rate applicable to the customer
+
 Num_of_Loan :	Number of loans associated with the customer
+
 Type_of_Loan :	Types of loans the customer has
+
 Delay_from_due_date :	Days past due date for payments
+
 Num_of_Delayed_Payment :	Number of times payments have been delayed
+
 Changed_Credit_Limit :	Any changes in the credit limit
+
 Num_Credit_Inquiries :	Number of credit-related inquiries
+
 Credit_Mix :	Diversity of credit types the customer has
+
 Outstanding_Debt :	Total debt outstanding
+
 Credit_Utilization_Ratio :	Ratio of used credit to available credit
+
 Credit_History_Age :	Age of the customer's credit history
+
 Payment_of_Min_Amount :	Indicator of minimum payment made or not
+
 Total_EMI_per_month :	Total Equated Monthly Installments paid per month
+
 Amount_invested_monthly :	Monthly investment amount
+
 Payment_Behaviour :	Customer's payment habits
+
 Monthly_Balance :	Balance amount each month
+
 Credit_Score :	Customer's credit score
 
 
